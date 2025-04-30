@@ -102,6 +102,11 @@ button {
         padding: 4px;
         color:#f4f4f4;
     }
+    article{
+        margin: 30px;
+        width: 540px;
+        height: 150px;
+    }
     
    
  }
